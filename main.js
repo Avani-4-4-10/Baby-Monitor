@@ -59,6 +59,10 @@ function draw(){
                 document.getElementById("baby_status").innerHTML= "Baby Not Found!"
                 song.play()
             }
+            if(objects.length == 0){
+                document.getElementById("baby_status").innerHTML= "Baby Not Found!"
+                song.play()
+            }
         }
     }
 
