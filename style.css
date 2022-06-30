@@ -1,0 +1,26 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status , #baby_status , #start_button
+{
+font-size: 18px;
+}
+canvas{
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px grey;
+    margin-top: 80px;
+}
+body{
+    background-position: center;
+    background-size: cover;
+}
+label{
+    font-size: 12px;
+    color: lightpink;
+}
+
